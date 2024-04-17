@@ -13,7 +13,7 @@ As an avid curious, I strive to continuously learn on a daily basis.
 
 ### 🤝 Connect with me
 
-<a href="www.linkedin.com/in/thomasclavet"><img align="left" src="https://raw.githubusercontent.com/thomasclavet/thomasclavet/main/images/linkedin.svg" alt="thomasclavet | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/thomasclavet"><img align="left" src="https://raw.githubusercontent.com/thomasclavet/thomasclavet/main/images/linkedin.svg" alt="thomasclavet | LinkedIn" width="21px"/></a>
 <br>
 
 <picture>
