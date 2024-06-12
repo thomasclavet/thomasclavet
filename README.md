@@ -14,6 +14,7 @@ As an avid curious, I strive to continuously learn on a daily basis.
 ### 🤝 Connect with me
 
 <a href="https://www.linkedin.com/in/thomasclavet"><img align="left" src="https://raw.githubusercontent.com/thomasclavet/thomasclavet/main/images/linkedin.svg" alt="thomasclavet | LinkedIn" width="21px"/></a>
+<a href="https://passeport.dev/en/p/f01d26d0-263c-455c-a1fd-3538e802f4eb"><img align="left" src="https://raw.githubusercontent.com/thomasclavet/thomasclavet/main/images/1699020688617.jpeg" alt="thomasclavet | passeport.dev" width="21px"/></a>
 <br>
 
 <picture>
