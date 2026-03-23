@@ -4,11 +4,11 @@ Hi there 👋
 </h2>
 
 <h3 align="center">
-I’m a data enthusiast passionate about Big data, Software Engineering Management and Cooking.
+I’m a data enthusiast passionate about Data, Software Craftmanship, Management and Cooking.
 </h3> 
 
 
-With more than 7 years of experience, I got the opportunity to work on developing efficient data pipelines and leading high-performing teams, with a track record of delivering results in diverse industries.
+With 10 years of experience, I got the opportunity to work on developing efficient data pipelines and leading high-performing teams, with a track record of delivering results and products in diverse industries.
 As an avid curious, I strive to continuously learn on a daily basis. 
 
 ### 🤝 Connect with me
